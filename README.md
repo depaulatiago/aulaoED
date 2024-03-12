@@ -9,7 +9,7 @@ venda), o valor do negócio (o
 quanto foi pago ou recebido) e o
 dia da semana em que o negócio
 ocorreu.
-Ele az negócios de segunda a sexta
+Ele faz negócios de segunda a sexta
 e no sábado, ele deseja saber qual
 foi o valor movimentado em
 compras e em vendas durante a
